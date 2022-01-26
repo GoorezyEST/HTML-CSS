@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: rgb(101, 179, 179);
+    font-size: 20px;
+}
+h1 {
+    color: rgb(123, 196, 230);
+    font-size: 40px;
+}
+h2 {
+    color: rgb(123, 196, 230);
+    font-size: 30;   
+}
+
+.i2 {
+    color: rgb(21, 173, 79);
+}
+
+a {
+    color: rgb(48, 58, 197);
+}
+
+.importante {
+    color: blanchedalmond;
+}
+
+.i1 {
+    color: blanchedalmond;
+}
