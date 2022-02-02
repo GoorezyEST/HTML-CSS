@@ -50,3 +50,12 @@ nav a:hover{
     align-items: center;
     text-align: center;
 }
+
+.second {
+    width: 90%;
+    padding: 20px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
